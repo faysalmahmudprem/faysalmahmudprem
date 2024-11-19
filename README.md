@@ -51,6 +51,7 @@ leverage my skills to create impactful digital solutions. </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact" alt="faysalmahmudprem" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&show_icons=true&locale=en" alt="faysalmahmudprem" /></p>
 
 
