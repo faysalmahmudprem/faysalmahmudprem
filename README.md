@@ -15,6 +15,7 @@ leverage my skills to create impactful digital solutions. </p>
   - <strong>WordPress</strong>: Development, Theme & Plugin Customization, Elementor, WooCommerce (E-Commerce)<br>
   - <strong>Front-End</strong>: HTML, CSS, JavaScript<br>
   - <strong>Back-End</strong>: PHP, MySQL<br>
+  - <strong>Framework</strong>: React, Django ⁣<br>
   - <strong>Tools</strong>: Git, cPanel, Overleaf<br>
   - <strong>Problem-Solving</strong>: Java, Python ⁣<br>
   - <strong>Additional Skills</strong>: Problem-Solving, Communication, AI, Research, Team Collaboration
