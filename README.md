@@ -26,7 +26,7 @@ leverage my skills to create impactful digital solutions. </p>
 - ✔ I’m currently learning **Back-End development (Php and MySQL)**
 - ✔ I’m looking to collaborate on **Web development**
 
-- ✔ My Portfolio [faysalmahmudprem.com](faysalmahmudprem.com)
+- ✔ My Portfolio [faysalmahmudprem.com](https://faysalmahmudprem.com/)
 - ✔ Ask me about **Web development and Tech Stuff**
 <br>
  📫 Send a mail - **faysal.m.prem@gmail.com**
