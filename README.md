@@ -47,6 +47,9 @@ leverage my skills to create impactful digital solutions. </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact" alt="faysalmahmudprem" /></p>
 
+<h3 style="font-size: 14px; font-style: italic; color: gray;">
+  📌 Note: The language stats above only include public repositories. Private repositories are not counted.
+</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&show_icons=true&locale=en" alt="faysalmahmudprem" /></p>
 
