@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faysal Mahmud Prem</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Dhaka, Bangladesh</h3>
 
 <p align ="center"> Results-oriented Web Developer specializing in front-end development and WordPress, 
 known for a strong work ethic and commitment to excellence. With a unique blend of 
