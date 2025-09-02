@@ -39,15 +39,21 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6&theme=white" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=white" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6&theme=white" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=white" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <h3 style="font-size: 14px; font-style: italic; color: gray;">
   📌 Note: The language stats above only include public repositories. Private repositories are not counted.
