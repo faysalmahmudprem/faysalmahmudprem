@@ -38,7 +38,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faysalmhamudprem.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com) 
 
 ## 📊 Productivity
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6" /></p> ![](https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
