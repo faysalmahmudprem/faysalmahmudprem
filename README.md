@@ -34,11 +34,8 @@
 📫 Email: **faysal.m.prem@gmail.com**  
 💡 *Love exploring new tech trends everyday!*  
 
-## 🤝 Connect with me
-<p align="left">
-  <a href="https://fb.com/faysalmahmudprem.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/faysal-mahmud-prem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faysalmhamudprem.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com) 
 
 ## 📊 Productivity
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6" /></p>
