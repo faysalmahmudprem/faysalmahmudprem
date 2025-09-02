@@ -41,9 +41,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6" /></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalmahmudprem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=white&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 style="font-size: 14px; font-style: italic; color: gray;">
   📌 Note: The language stats above only include public repositories. Private repositories are not counted.
