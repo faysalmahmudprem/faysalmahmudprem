@@ -41,7 +41,7 @@
 </p>
 
 ## 📊 Productivity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6" /></p>
 
 <h3 style="font-size: 14px; font-style: italic; color: gray;">
   📌 Note: The language stats above only include public repositories. Private repositories are not counted.
