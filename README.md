@@ -37,13 +37,17 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faysalmhamudprem.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com) 
 
-## 📊 Productivity
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6" /></p> ![](https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## 📊 My GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=white&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalmahmudprem&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6&theme=white" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=white" alt="GitHub Streak" />
+</p>
 
 <h3 style="font-size: 14px; font-style: italic; color: gray;">
   📌 Note: The language stats above only include public repositories. Private repositories are not counted.
