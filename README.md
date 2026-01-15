@@ -29,7 +29,7 @@
 ✔ I’m currently learning **Back-End development (PHP and MySQL)**  
 ✔ I’m looking to collaborate on **Web development**  
 
-- My Portfolio 👉 [faysalmahmudprem.com](https://faysalmahmudprem.com/)  
+- My Portfolio 👉 [faysalmahmudprem](https://faysalmahmudprem.netlify.app/)  
 - Ask me about **Web development and Tech Stuff**  
 📫 Email: **faysal.m.prem@gmail.com**  
 💡 *Love exploring new tech trends everyday!*  
