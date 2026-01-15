@@ -41,12 +41,8 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysalmahmudprem&show_icons=true&locale=en&layout=compact&langs_count=6&theme=white" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&theme=white&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
+   
+   
   </tr>
   <tr>
     <td colspan="2" align="center">
