@@ -41,16 +41,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalmahmudprem&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
-    </td>
-    <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=faysalmahmudprem&theme=white" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
 <h3 style="font-size: 14px; font-style: italic; color: gray;">
-  📌 Note: The language stats above only include public repositories. Private repositories are not counted.
+  📌 Note: The stats above only include public repositories. Private repositories are not counted.
 </h3>
 
 
