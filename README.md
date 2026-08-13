@@ -1,62 +1,103 @@
-<h1 align="center">Hi 👋, I'm Faysal Mahmud Prem</h1>
-<h3 align="center">A passionate Software Developer from Dhaka, Bangladesh</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faysalmahmudprem&label=Profile%20views&color=0e75b6&style=flat" alt="faysalmahmudprem" />
-</p>
-
-<p align="center">
-  Results-oriented Web Developer specializing in front-end development and WordPress, 
-  known for a strong work ethic and commitment to excellence. With a unique blend of 
-  technical expertise and creative insight, I have a proven record of delivering quality freelance 
-  projects on Fiverr, adapting seamlessly in dynamic environments. I hold a Bachelor’s degree 
-  in Computer Science and Engineering (CSE) from Bangladesh University of Business and 
-  Technology (BUBT), with a solid foundation in web development, programming, and 
-  problem-solving. Passionate about continuous growth, I am seeking Web development roles where I can 
-  leverage my skills to create impactful digital solutions.
-</p>
-
-## ✨ Skills and Expertise
-- **WordPress**: Development, Theme & Plugin Customization, Elementor, WooCommerce (E-Commerce)  
-- **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: PHP, MySQL  
-- **Frameworks**: React, Django  
-- **Tools**: Git, cPanel, Overleaf  
-- **Problem-Solving**: Java, Python  
-- **Additional Skills**: Communication, AI, Research, Team Collaboration  
-
-✔ I’m currently working on **Front-End Development and WordPress**  
-✔ I’m currently learning **Back-End development (PHP and MySQL)**  
-✔ I’m looking to collaborate on **Web development**  
-
-- My Portfolio 👉 [faysalmahmudprem](https://faysalmahmudprem.netlify.app/)  
-- Ask me about **Web development and Tech Stuff**  
-📫 Email: **faysal.m.prem@gmail.com**  
-💡 *Love exploring new tech trends everyday!*  
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faysalmhamudprem.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com) 
-
----
-## 📊 My GitHub Stats
+<!-- SEO: Faysal Mahmud Prem - Software Engineer - Dhaka Bangladesh - Laravel React Node.js -->
 
 <div align="center">
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Top Languages |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Streak |
-| :--- | :--- |
-| <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=faysalmahmudprem&langs_count=8&layout=compact&show_icons=true&theme=default" height="190px"/> | <img src="https://streak-stats.demolab.com/?user=faysalmahmudprem&theme=default" height="190px"/> |
+# Faysal Mahmud Prem
+
+**Software Engineer · IT In-Charge**  
+Dhaka, Bangladesh
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-faysalmahmudprem.netlify.app-0E75B6?style=flat-square)](https://faysalmahmudprem.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem)
+[![Email](https://img.shields.io/badge/Email-faysal.m.prem@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=faysalmahmudprem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
-<p align="center" style="font-size: 14px; font-style: italic; color: gray;">
-  📌 Note: The stats above only include public repositories. Private repositories are not counted.
-</p>
+---
+
+## Who I Am
+
+I'm a **Software Engineer** based in **Dhaka, Bangladesh**, with a **BSc in Computer Science & Engineering**.
+
+I design and build **web applications** — from scalable backend architecture to responsive frontend UI — working extensively across **PHP, Laravel, JavaScript, React, and Python**. Beyond individual development, I currently lead a dedicated IT team at a **real estate and construction company** in Dhaka, overseeing web systems, IT infrastructure, and digital operations.
+
+> **I write code that solves real problems. Not just code that runs.**
+
+I'm open to technical collaborations and real-world software projects.
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-<br />
+## What I Work With
+
+| Category | Technologies |
+|---|---|
+| **Languages** | **PHP** · **JavaScript** · TypeScript · **Python** · HTML · CSS |
+| **Backend** | **Laravel** · **Node.js** · Django · REST APIs |
+| **Frontend** | **React** · Tailwind CSS · Vanilla JS |
+| **Database** | **MySQL** · PostgreSQL |
+| **CMS** | **WordPress** · WooCommerce |
+| **Tools** | Git · GitHub · Netlify · Vercel · cPanel |
+| **ML / Data** | scikit-learn · pandas · NumPy *(project experience)* |
+
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Pharmacy POS**](https://github.com/faysalmahmudprem/pharmacy-pos-demo) | Sales, invoicing, stock & due tracking system. Demo of a **commercial platform**. | Laravel · PHP · MySQL |
+| [**Diabetes Prediction**](https://github.com/faysalmahmudprem/diabetes-prediction-ML) | **ML pipeline** — Random Forest & Logistic Regression ensemble, **82% accuracy**. Deployed via Django. | Python · scikit-learn · Django |
+| [**Prodip Login**](https://github.com/faysalmahmudprem/prodip-login) | Pull a lamp, reveal the login form. Canvas animation built in React + TypeScript. | React · TypeScript · Vite |
+| [**Chithi Pathao**](https://github.com/faysalmahmudprem/chithi-pathao) | Express emotions in a beautiful, interactive web experience. | React · TypeScript · Framer Motion |
+
+Several **commercial and client projects** are maintained in private repositories due to confidentiality. The work above represents a portion of my public output.
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=5000&color=0E75B6&center=true&vCenter=true&width=700&height=100&lines=Don't+waste+your+time+spying,+spend+it+upgrading+yourself.;While+you're+watching,+I'm+evolving." alt="Evolution Quote" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=faysalmahmudprem&show_icons=true&hide_border=true&theme=default" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalmahmudprem&layout=compact&hide_border=true&langs_count=6" height="160" />
+
+<sub>Stats reflect public repositories only.</sub>
+
+</div>
+
+---
+
+## Let's Connect
+
+Whether it's a project, a question, or just a conversation about tech — feel free to reach out.
+
+<div align="center">
+
+| | |
+|---|---|
+| **Email** | [faysal.m.prem@gmail.com](mailto:faysal.m.prem@gmail.com) |
+| **Portfolio** | [faysalmahmudprem.netlify.app](https://faysalmahmudprem.netlify.app/) |
+| **LinkedIn** | [faysal-mahmud-prem](https://linkedin.com/in/faysal-mahmud-prem) |
+
+</div>
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/faysalmahmdprem)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@faysal_mahmud_prem)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/faysal_mahmud_prem)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/faysalmhamudprem.1)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© Faysal Mahmud Prem · Software Engineer · Dhaka, Bangladesh</sub>
+  <br/><br/>
+  <a href="https://www.buymeacoffee.com/faysalmahmudprem">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
 </div>
