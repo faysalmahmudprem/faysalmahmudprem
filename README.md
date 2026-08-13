@@ -7,9 +7,9 @@
 **Software Engineer · IT In-Charge**  
 Dhaka, Bangladesh
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-faysalmahmudprem.netlify.app-0E75B6?style=flat-square)](https://faysalmahmudprem.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem)
-[![Email](https://img.shields.io/badge/Email-faysal.m.prem@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=googlechrome&logoColor=white)](https://faysalmahmudprem.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=faysalmahmudprem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
