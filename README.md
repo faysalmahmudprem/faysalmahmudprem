@@ -4,7 +4,7 @@
 
 # Faysal Mahmud Prem
 
-**Software Engineer · IT In-Charge**  
+**Software Engineer · IT Consultant**  
 Dhaka, Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=googlechrome&logoColor=white)](https://faysalmahmudprem.netlify.app/)
