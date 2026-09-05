@@ -78,7 +78,7 @@ Whether it's a project, a question, or just a conversation about tech — feel f
 | | |
 |---|---|
 | **Email** | [faysal.m.prem@gmail.com](mailto:faysal.m.prem@gmail.com) |
-| **Portfolio** | [faysalmahmudprem.netlify.app](https://faysalmahmudprem.netlify.app/) |
+| **Portfolio** | [faysalmahmudprem.com](https://faysalmahmudprem.com/) |
 | **LinkedIn** | [faysal-mahmud-prem](https://linkedin.com/in/faysal-mahmud-prem) |
 
 </div>
