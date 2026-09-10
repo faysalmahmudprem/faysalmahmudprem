@@ -59,10 +59,9 @@ Several **commercial and client projects** are maintained in private repositorie
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faysalmahmudprem&layout=compact&hide_border=true&langs_count=10" height="160" />
-<img src="https://streak-stats.demolab.com/?user=faysalmahmudprem&hide_border=true" height="160" />
-
+  
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faysalmahmudprem&layout=compact&hide_border=true&langs_count=10" width="400" />
+<img src="https://streak-stats.demolab.com/?user=faysalmahmudprem&hide_border=true" width="605" />
 <sub>Stats reflect public repositories only.</sub>
 
 </div>
