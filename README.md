@@ -7,7 +7,7 @@
 **Software Engineer · IT Consultant**  
 Dhaka, Bangladesh
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=googlechrome&logoColor=white)](https://faysalmahmudprem.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=flat-square&logo=googlechrome&logoColor=white)](https://faysalmahmudprem.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faysal-mahmud-prem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faysal.m.prem@gmail.com)
 
@@ -23,9 +23,9 @@ I'm a **Software Engineer** based in **Dhaka, Bangladesh**, with a **BSc in Comp
 
 I design and build **web applications** — from scalable backend architecture to responsive frontend UI — working extensively across **PHP, Laravel, JavaScript, React, and Python**. Beyond individual development, I currently lead a dedicated IT team at a **real estate and construction company** in Dhaka, overseeing web systems, IT infrastructure, and digital operations.
 
-> **I write code that solves real problems. Not just code that runs.**
+> I focus on building software that fits the way people and businesses work.
 
-I'm open to technical collaborations and real-world software projects.
+I'm interested in practical software projects and working with people who care about building useful products.
 
 ---
 
@@ -50,7 +50,7 @@ I'm open to technical collaborations and real-world software projects.
 | [**Pharmacy POS**](https://github.com/faysalmahmudprem/pharmacy-pos-demo) | Sales, invoicing, stock & due tracking system. Demo of a **commercial platform**. | Laravel · PHP · MySQL |
 | [**Diabetes Prediction**](https://github.com/faysalmahmudprem/diabetes-prediction-ML) | **ML pipeline** — Random Forest & Logistic Regression ensemble, **82% accuracy**. Deployed via Django. | Python · scikit-learn · Django |
 | [**Prodip Login**](https://github.com/faysalmahmudprem/prodip-login) | Pull a lamp, reveal the login form. Canvas animation built in React + TypeScript. | React · TypeScript · Vite |
-| [**Chithi Pathao**](https://github.com/faysalmahmudprem/chithi-pathao) | Express emotions in a beautiful, interactive web experience. | React · TypeScript · Framer Motion |
+| [**Chithi Pathao**](https://github.com/faysalmahmudprem/chithi-pathao) | A React app for creating personalized messages and sharing them through a link. | React · TypeScript · Framer Motion |
 
 Several **commercial and client projects** are maintained in private repositories due to confidentiality. The work above represents a portion of my public output.
 
